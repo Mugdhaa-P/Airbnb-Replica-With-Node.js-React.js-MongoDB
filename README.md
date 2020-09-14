@@ -3,11 +3,11 @@
 Fullstack Airbnb replica with Node.js, MongoDB backend and React.js frontend:
 
 Features for Hosts/Owners:
-> Post property listings
-> Manage properties
+> Post property listings, 
+> Manage properties,
 > Manage bookings
 
 Features for Travellers:
-> Search homes
-> Make bookings
+> Search homes,
+> Make bookings,
 > Manage bookings
