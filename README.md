@@ -11,3 +11,7 @@ Features for Travellers:
 > Search homes,
 > Make bookings,
 > Manage bookings
+
+
+
+![](https://github.com/Mugdhaa-P/Airbnb-Replica-With-Node.js-React.js-MongoDB/blob/master/landing-page-screenshot.png)
